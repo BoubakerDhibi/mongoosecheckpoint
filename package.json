@@ -1,0 +1,16 @@
+{
+    "name": "mongosscheckpoint",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "boubaker dhibi",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^6.2.5",
+        "validator": "^13.7.0"
+    }
+}
